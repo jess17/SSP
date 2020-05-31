@@ -1,0 +1,25 @@
+.leftNav{
+  height : 100vh;
+  background: rgb(21, 21, 27);
+}
+
+.margin-left{
+  margin-left: 1rem;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.navRight{
+  display:flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+html{
+  scroll-behavior: smooth;
+
+}
+
+
